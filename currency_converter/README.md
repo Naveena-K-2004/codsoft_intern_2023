@@ -1,1 +1,2 @@
-
+# Currency Convertor
+Ever dreamt of effortlessly converting currencies? Now you can! Simply choose your base and target currency, and let the real-time exchange rates from a reliable API work their magic. Share the amount you want to convert, and watch as it transforms into the target currency, complete with its stylish symbol. It's currency conversion made easy—no tricks, just a smooth journey to your financial destination! Ready to embark on this seamless adventure? 
